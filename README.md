@@ -6,7 +6,8 @@ this simple 1st web application programm written in python
 2) you have window machine
 
 # git basic command 
-1) command :  git clone git@github.com:abhiramdas99/python_web_hello_world.git   // clone command  for this project
+1) command : git clone git@github.com:abhiramdas99/python_web_hello_world.git   // clone command  for this project
+2) command : git pull  // but remember use this command within the folder. It pull the new changes from github
 
 # steps 
 1) install phyton, if you have not installed  yet
